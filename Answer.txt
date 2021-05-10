@@ -1,0 +1,2 @@
+Ramadevi Answer
+//td[text()=' Walmart']/parent::tr/following-sibling::tr/td[text()='Kiwi']
