@@ -1,0 +1,1 @@
+//td[text(),'Dates']/parent::tr/preceding-sibling::td[text(),'Mango']

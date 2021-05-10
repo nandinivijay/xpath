@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//td[text()=' Walmart']/parent::tr/following-sibling::tr/td[text()=' 500']")).getText();
