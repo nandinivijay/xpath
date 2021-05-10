@@ -1,0 +1,1 @@
+//tr/td[contains(text(),'Mango')]/following::tr[3]
