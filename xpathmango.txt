@@ -1,0 +1,1 @@
+//td[text(),' Walmart']/parent::tr/preceding-sibling::td[text(),'Mango']
