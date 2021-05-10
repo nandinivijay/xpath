@@ -1,0 +1,1 @@
+//tr/td[contains(text(),'Whole Foods')]/preceding::tr[2]/td[1]
