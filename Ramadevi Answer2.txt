@@ -1,1 +1,1 @@
-driver.findElement(By.xpath("//td[text()='Mango']/parent::tr/following-sibling::tr/td[text()='Dates ']")).getText();
+driver.findElement(By.xpath("//td[text()='Dates ']/parent::tr/preceding-sibling::tr/td[text()='Mango']")).getText();
