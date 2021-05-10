@@ -1,0 +1,2 @@
+driver.findElement(By.xpath(""//td[text()='Maria Anders']/following-sibling::td")).getText());
+//td[contains(text(),'Italy')]/parent::tr/preceding-sibling::tr/td[contains(text(),'Mexico')]

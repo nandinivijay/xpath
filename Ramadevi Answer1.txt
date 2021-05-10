@@ -1,0 +1,1 @@
+driver.findElement(By.xpath("//td[text()=' Walmart']/preceding-sibling::td")).getText();
