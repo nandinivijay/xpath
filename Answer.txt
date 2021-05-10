@@ -1,0 +1,1 @@
+//tr/td[contains(text(),'Walmart')]/following::tr/td[contains(text(),'Kiwi')]
