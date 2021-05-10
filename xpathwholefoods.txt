@@ -1,0 +1,1 @@
+//td[text(),'Whole Foods']/parent::tr/sibling::tr[2]/td[text(),'Apple']
